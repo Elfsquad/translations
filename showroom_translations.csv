@@ -1,147 +1,147 @@
-en;nl;fr;de;sv;pl;it
-Notes;Notities;Remarques;Notizen;Anmärkningar;Notatki;Note
-Continue;Doorgaan;Continuer;Fortsetzen;Fortsätt;Kontynuuj;Continua
-Address;Adres;Adresse;Adresse;Adress;Adres;Indirizzo
-Categories;Categorieën;Catégories;Kategorien;Kategorier;Kategorie;Categorie
-City;Woonplaats;Ville;Stadt;Stad;Miasto;Città
-Close;Sluiten;Fermer;Schliessen;Stäng;Zamknij;Chiudi
-Centimeter;Centimeter;Centimètre;Zentimeter;Centimeter;Centrymetr;Centimetro
-Configure;Configureren;Configurer;Konfigurieren;Konfigurera;Konfiguruj;Configura
-Cubic Meter;Kubieke meter;Mètre cubique;Kubikmeter;Kubikmeter;Metry kwadratowe;Metro cubo
-Degrees;Graden;Dégras;Grad;Grader;Stopnie;Gradi
-Hour;Uur;Heure;Stunde;Timme;Godzina;Ora
-Liter;liter;Litre;Liter;Liter;Litr;Litro
-Meter;Meter;Mètre;Meter;Meter;Metr;Metro
-Millimeter;Millimeter;Millimètre;Millimeter;Millimeter;Milimetr;Millimetro
-First name;Voornaam;Prénom;Vorname;Förnamn;Imię;Nome
-House number;Huisnummer;Numéro de la maison;Hausnummer;Husnummer;Numer domu;Numero civico
-Last name;Achternaam;Nom de famille;Nachname;Efternamn;Nazwisko;Cognome
-Ms;Mevr.;Madame;Frau;;Pani;Signora
-Mobile phone number;Mobiele telefoonnummer;Numéro de téléphone mobile;Handynummer;Mobiltelefonnummer;Numer telefonu komórkowego;Numero di cellulare
-More Info;Meer Info;Plus d'informations;Mehr Informationen;Mer information;Więcej informacji;Ulteriori informazioni
-Pieces;Stuks;Pièces;Stück;Stycken;Sztuki;Pezzi
-Product name;Product naam;Nom du produit;Produktname;Produktnamn;Nazwa produktu;Nome del prodotto
-Quantity;Aantal;Numéro;Anzahl;Kvantitet;Ilość;Quantità
-Square Meter;Vierkante meter;Mètre carré;Quadratmeter;Kvadratmeter;Metr kwadratowy;Metro quadrato
-Phone number;Telefoonnummer;Numéro de téléphone;Telefonnummer;Telefonnummer;Numer telefonu;Numero di telefono
-Postal code;Postcode;Code postal;Postleitzahl;Postnummer;Kod pocztowy;Codice postale
-Remarks;Opmerkingen;Remarques;Kommentare;Anmärkningar;Uwagi;Osservazioni
-Request quote;Offerte aanvragen;Devis requise;Angebot anfordern;Begäran om offert;Poproś o ofertę;Richiedi un preventivo
-Mr;De heer;Monsieur;Herr;Mr;Pan;Signor
-Starting price*;Vanaf:;prix de départ* ;Eintrittspreis*;Utgångspris*;Cena wyściowa*;Prezzo di partenza*
-Starting price;vanaf:;du prix;ab einem Wert von;Utgångspris;Cena wyściowa*;Prezzo di partenza
-Total price*;Totaal*;Prix total* ;Gesamtpreis*;Totalt pris*;Cena całkowita*;Prezzo totale*
-Base price*;Basis prijs*;Prix de base*;Standardpreis*;Grundpris*;Cena podstawowa*;Prezzo base*
-Additional options*;Toegevoegde opties*;Options additionnelles*;Zusatzoptionen*;Ytterligare tillval*;Dodatkowe opcje*;Opzioni aggiuntive*
-Share;Delen;Partager;Aktie (zn) / beteiligen (ww);Aktie;Udostępnij;Condividi
-Your personal configuration code;Uw persoonlijke configuratie code;Votre code de configuration personnel;Ihr persönlicher Konfigurationscode;Din personliga konfigurationskod;Twój osobisty kod konfiguracji;Il tuo codice di configurazione personale
-Your:;Uw:;Votre:;Ihr(e):;Din:;Twój:;Tuo:
-Back to Configuration;Terug naar configuratie;Retour Ã  la configuration;Zuruck zur Konfiguration;Tillbaka till konfigurationen;Wróć do Konfiguracji;Torna alla configurazione
-Accept changes;Wijzigingen accepteren;Accepter les modifications;Änderungen übernehmen;Acceptera ändringar;Zaakceptuj zmiany;Accetta modifiche
-d;d;j;Tg.;d;d;g
-Days;Dagen;Journées;Tage;Dagar;Dni;Giorni
-j;j;a;Jr.;j;r;a
-Lease price;Lease prijs;Prix ??de location;Leasingpreis;Pris för leasing;Cena leasingu;Prezzo di locazione
-Lease term;Leasetermijn;Duré du bail;Laufzeit des Leasingvertrags;Hyrestiden;Warunki leasingu;Termine di locazione
-m;m;m;M.;m;m;m
-Months;Maanden;Mois;Monate;Månader;Miesiące;Mesi
-w;w;s;W.;w;t;s
-Weeks;Weken;Semaines;Wochen;Veckor;Tygodnie;Settimane
-Years;Jaren;années;Jahre;År;Lata;Anni
-Description;Omschrijving;La description;Beschreibung;Beskrivning;Opis;Descrizione
-Unit price*;Prijs*;prix unitaire;Stückpreis* / Einzelpreis*;Pris per enhet*;Cena jednostkowa*;Prezzo unitario*
-Overview;Overzicht;aperçu;Übersicht;Översikt;Podgląd;Panoramica
-*Prices do not include VAT;* Prijzen zijn exclusief btw;* Les prix n'incluent pas la TVA;* Preise excl. MwSt;*Priserna inkluderar inte moms;*Cena nie zawiera VAT;* I prezzi non includono l'IVA
-*Prices include VAT;* Prijzen zijn inclusief btw;* Les prix incluent la TVA;* Preise inkl. MwSt;*Priserna inkluderar moms;*Cena zawiera VAT;* I prezzi includono l'IVA
-day;dag;journée;Tag;dag;dzień;giorno
-mo;mnd.;ms;Mon.;mo;mies.;mo
-wk;wk.;smn;Wo.;vecka;tydz.;set
-yr;jr.;an;Jr.;år;r.;anno
-Gram;Gram;Gramme;Gramm;Gram;Gram;Grammo
-Kilogram;Kilogram;Kilogramme;Kilogramm;Kilogram;Kilogram;Chilogrammo
-Milligram;Milligram;Milligramme;Milligramm;Milligram;Miligram;Milligrammo
-Contact Info;Contact informatie;Informations de contact;Kontakt Informationen;Kontaktuppgifter;Informacje kontaktowe;Informazioni di contatto
-Personal Info;Persoonlijke informatie;Informations personnelles;Persönliche Informationen;Personlig information;Dane osobowe;Informazioni personali
-Your request has been submitted!;Uw aanvraag is verzonden!;Votre demande a été envoyée !;Ihre Anfrage wurde gesendet!;Din förfrågan har skickats!;Twoje zapytanie zostało wysłane!;La tua richiesta è stata inviata!
-Download Pdf;Download Pdf;Télécharger le fichier PDF;PDF Herunterladen;Ladda ner Pdf;Pobierz plik PDF;Scarica Pdf
-Email Pdf;Email Pdf;Email le fichier PDF;E-Mail PDF;E-post Pdf;Wyślij email z Pdf;Invia Pdf tramite email
-Email;Email;Email;E-Mail;E-post;Email;Email
-Add configuration;Extra configuratie toevoegen;Ajouter une configuration;Konfiguration hinzufügen;Lägg till konfiguration;Dodaj konfigurację;Aggiungi configurazione
-Add to quotation;Toevoegen aan offerte;Ajouter au devis;An das Angebot hinzufügen;Lägg till i offert;Dodaj do oferty;Aggiungi al preventivo
-Additional options;Toegevoegde opties;Options additionnelles;Zusatzoptionen;Ytterligare alternativ;Dodatkowe opcje;Opzioni aggiuntive
-Base price;Basis prijs;Prix de base;Standardpreis;Grundpris;Cena podstawowa;Prezzo di base
-Total price;Totaal;Prix total;Gesamtpreis*;Totalt pris;Cena całkowita;Prezzo totale
-Unit price;Stuk prijs;Prix unitaire;Stückpreis / Einzelpreis;Pris per enhet;Cena jednostkowa;Prezzo unitario
-Company name;Bedrijfsnaam;Nom de la compagnie;Name des Unternehmens;Företagets namn;Nazwa firmy;Nome dell'azienda
-Last name Prefix;Voorvoegsel;Nom de famille;Präfix Ihres Nachnamen;Efternamn Prefix;Prefiks nazwiska;Prefisso del cognome
-Search;Zoeken;Chercher;suchen;Sök;Szukaj;Cerca
-To continue you need to make a choice for the following:;Om verder te gaan, moet je een keuze maken voor het volgende:;Pour continuer, vous devez faire un choix pour ce qui suit:;Um fortzufahren, müssen Sie eine der folgenden Optionen auswählen:;För att kunna fortsätta måste du göra ett val för följande:;Aby kontynuować, musisz dokonać wyboru dla następujących elementów:;Per continuare è necessario effettuare una scelta per quanto segue:
-Unanswered mandatories;Onbeantwoorde vereisten;Exigences non répondues;Unbeantwortete Erforderlichkeiten;obesvarade uppdrag;Obowiązkowe zlecenia bez odpowiedzi;Obblighi non risolti
-Resume configuration;Configuratie hervatten;reprendre la configuration;Konfiguration fortsetzen;Konfigurering av CV;Wznów konfigurację;Riprendi la configurazione
-Country;Land;Pays;Land;Land;Kraj;Nazione
-Street;Straat;Rue;Strasse;Gata;Ulica;Via
-Logout;Uitloggen;Connectez - Out;ausloggen;Logga ut;Wyloguj;Logout
-Next;Volgende;Prochain;Weiter;Nästa;Dalej;Avanti
-Previous;Vorige;Précédent;Zurück;Föregående;Poprzednio;Indietro
-Salutation;Aanhef;Salutation;Anrede;Hälsning;Zwrot grzecznościowy;Saluto
-Send;Versturen;Envoyer;senden;Skicka;Wyślij;Invia
-Switch Configuration;Kies Configuratie;choisir la configuration;Konfiguration wählen;Konfigurering av växlar;Przełącz konfigurację;Cambia configurazione
-Different shipping address;Ander verzendadres;Adresse de livraison différente;Andere Lieferadresse (ontvanger toch?);Annan leveransadress;Inny adres wysyłki;Indirizzo di spedizione diverso
-Shipping address;Verzendingsadres;Adresse de livraison;Lieferadresse;Leveransadress;Adres wysyłki;Indirizzo di spedizione
-Adjustment required;Aanpassing vereist;Ajustement requis;Änderung erforderlich;Anpassning krävs;Wymagane dostosowanie;Modifica richiesta
-Requires the following to be removed;Vereist de volgende elementen te verwijderen;Il faut retirer les éléments suivants;Folgendes muss entfernt werden;Kräver att följande tas bort;Wymaga usunięcia następujących elementów;Richiede la rimozione dei seguenti elementi
-The selection of feature;De selectie van feature;La sélection de la fonctionnalité;Funktionsauswahl / Feature-Auswahl;Valet av funktion;Wybór elementów;La selezione della caratteristica
-Conflicting values;Conflicterende waarden;Des valeurs contradictoires;unvereinbare Werte;Motstridiga värden;Sprzeczne wartości;Valori in conflitto
-requested value of;gevraagde waarde van;valeur demandée de;angeforderter Wert von;Begärt värde för;żadana wartość;valore richiesto di
-will be;zal zijn;sera;wird sein;kommer att vara;będzie;sarà
-Requires adjustment of values;Vereist aanpassing van waarden;Nécessite un ajustement des valeurs;Eine Änderung der Werte is erforderlich;Kräver justering av värden;Wymaga korekty wartości;Richiede la regolazione dei valori
-Cancel;Annuleren;Annuler;abbrechen / beenden;Avbryt;Anuluj;Cancella
-Complete;Afronden;Complet;vollenden / fertig stellen;Slutför;Skończ;Completa
-Select CRM account;Selecteer CRM account;Compte Selecteer CRM;wählen / selektieren Sie einen CRM-Konto;Välj CRM-konto;Wybierz konto CRM;Seleziona account CRM
-New CRM account;Nieuw CRM account;Nouveau compte CRM;Neues CRM-Konto;Nytt CRM-konto;Nowe konto CRM;Nuovo account CRM
-Full name (default);Volledige naam (default);Nom complet (par défaut);vollständiger Name (default);Fullständigt namn (standard);Imię i nazwisko (domyślnie);Nome completo (predefinito)
-Address line;Adres;Adresse;Adresse;Adressrad;Linia adresowa;Linea dell'indirizzo
-Primary phone;Telefoon;Téléphone;Haupttelefon ;Primär telefon;Telefon główny;Telefono principale
-Relationship type;Relatie soort;Type de relation;Art der Beziehung;Typ av relation;Typ relacji;Tipo di relazione
-Edit;Aanpassen;Ajuster;Ändern;Redigera;Edytuj;Modifica
-Save;Opslaan;Sauvez;speichern;Spara;Zapisz;Salva
-Customer;Klant;Client;Kunde;Kund;Klient;Cliente
-Change customer;Wijzig klant;Changer de client;Kunde ändern;Ändra kund;Zmień klienta;Cambia cliente
-Delivery;Levering;Livraison;Lieferung;Leverans;Dostawa;Consegna
-Ship to customer;Verzenden naar klant;Livraison au client;An den Kunden senden;Skicka till kunden;Wyślij do klienta;Spedisci al cliente
-Change shipping address;Wijzig verzendingsadres;Modifier l'adresse de livraison;Lieferadresse ändern;Ändra leveransadress;Znień adres dostawy;Cambia indirizzo di spedizione
-Business Info;Zakelijke informatie;Informations commerciales;Geschäftsinformationen;Information om företaget;Informacje o firmie;Informazioni aziendali
-IBAN;IBAN;IBAN;IBAN-Nummer;IBAN;IBAN;IBAN
-CoC number;KvK nummer;Numéro de la Chambre de commerce;Nummer der Handelskammer;CoC-nummer;Numer REGON;Numero CoC
-VAT number;BTW nummer;Numéro de TVA;Umsatzsteuer Identifikationsnummer (USt-ID);Momsnummer;Numer VAT;Numero IVA
-Total;Totaal;Total;Gesamt;Totalt;Razem;Totale
-Enter configuration code;Voer configuratie code in;Entrez le code de configuration;Konfigurationscode eingeben;Ange konfigurationskod;Wprowadź kod konfiguracji;Inserisci il codice di configurazione
-The required fields must be filled!;De verplichte velden moeten worden ingevuld!;Les champs obligatoires doivent Ãªtre remplis !;Die obligatorischen Felder müssen ausgefüllt werden!;De obligatoriska fälten måste fyllas i!;Wymagane pola muszą być uzupełnione!;I campi obbligatori devono essere compilati!
-Create quote;Offerte aanmaken;Création d'un devis;Angebot erstellen;Skapa offert;Stwórz ofertę;Crea preventivo
-Checkout;Kassa;Caisse;Kasse;Kassan;Kasa;Pagamento
-New quotation created;Nieuwe offerte aangemaakt;Création d'un nouveau devis;Neues Angebot erstellt;Ny offert skapad;Nowa oferta stworzona;Nuovo preventivo creato
-Create new quotation;Maak nieuwe offerte aan;Créer une nouvelle offre;Neues Angebot erstellen;Skapa en ny offert;Stwórz nową ofertę;Crea nuovo preventivo
-Yes;Ja;Oui;Ja  ;Ja;Tak;Sì
-No;Nee;Non;Nein;Nej;Nie;No
-Are you sure?;Weet je het zeker?;Vous êtes sûr ?;Sind Sie sich sicher?;Är du säker?;Czy jesteś pewny/a?;Sei sicuro?
-Leaving this page may cause you to lose your configuration. Are you sure you want to leave this page?;Het verlaten van deze pagina kan leiden tot verlies van je configuratie. Weet je zeker dat je de pagina wilt verlaten?;En quittant cette page, vous risquez de perdre votre configuration. Vous êtes sûr de vouloir quitter la page ?;Wenn Sie diese Seite verlassen, könnte Ihre Konfiguration verloren gehen. Möchten Sie die Seite wirklich verlassen?;Om du lämnar den här sidan kan du förlora din konfiguration. Är du säker på att du vill lämna den här sidan?;;Lasciare questa pagina potrebbe comportare la perdita della configurazione. Sei sicuro di voler lasciare questa pagina?
-Invalid email;Verkeerd emailadres;Adresse électronique erronée;Ungültige E-Mailadresse;Felaktigt e-postmeddelande;Nieprawidłowy adres email;Email non valida
-This field is required;Dit invoerveld is verplicht;Ce champ de saisie est obligatoire;Diese Eingabefeld ist obligatorisch;Det här fältet är obligatoriskt;To pole jest wymagane;Questo campo è obbligatorio
-Copy configuration;Configuratie kopiëren;Copier la configuration;Konfiguration kopieren;Kopiera konfigurationen;Kopiuj konfigurację;Copia configurazione
-Would you like to copy this configuration?;Wilt u de configuratie kopiëren?;Voulez-vous copier cette configuration ?;Wollen Sie diese Konfiguration kopieren?;Vill du kopiera den här konfigurationen?;Czy chcesz skopiować konfigurację?;Vuoi copiare questa configurazione?
-Copy;Kopieer;Copie;kopieren;Kopiera;Kopiuj;Copia
-Delete configuration;Verwijder configuratie;Supprimer la configuration;Konfiguration löschen;Radera konfiguration;Usuń konfigurację;Elimina configurazione
-Are you sure you want to delete this configuration?;Weet u zeker dat u deze configuratie wilt verwijderen?;Êtes-vous sûr de vouloir supprimer cette configuration ?;Sind Sie sicher, dass Sie diese Konfiguration löschen wollen?;Är du säker på att du vill radera den här konfigurationen?;Czy na pewno chcesz usunąć tę konfigurację?;Sei sicuro di voler eliminare questa configurazione?
-Save configuration code;Bewaar configuratie code;Sauvegarder le code de configuration;Bewahren Sie den Konfigurationscode;Spara konfigurationskod;Zapisz kod konfiguracji;Salva il codice di configurazione
-Using this code you can reopen your configuration at anytime, share it with friends or co-workers or send it to a dealer.;Met gebruik van deze code is het mogelijk om jouw configuratie altijd te openen, deel dit met je vrienden of collega's of verstuur de code naar een dealer.;Grâce à ce code, il est possible d'ouvrir votre configuration à tout moment, de la partager avec vos amis ou collègues ou d'envoyer le code à un revendeur.;Mit diesem Code können Sie Ihre Konfiguration jederzeit öffnen. Teilen Sie ihn mit Ihren Freunden und Kollegen oder schicken Sie den Code an einen Händler.;Med den här koden kan du öppna konfigurationen igen när som helst, dela den med vänner eller kollegor eller skicka den till en återförsäljare.;Za pomocą tego kodu możesz w dowolnym momencie ponownie otworzyć konfigurację, udostępnić ją znajomym lub współpracownikom lub wysłać do sprzedawcy.;Utilizzando questo codice, puoi riaprire la tua configurazione in qualsiasi momento, condividerla con amici o colleghi o inviarla a un rivenditore.
-Copy link;Kopieer link;Copier le lien;Link kopieren;Kopiera länk;Kopiuj link;Copia link
-Language;Taal;Langue;Sprache;Språk;Język;Lingua
-Name;Naam;;;;;Nome
-Code;Code;;;;;Codice
-Reference;Referentie;;;;;Riferimento
-Price;Prijs;;;;;Prezzo
-Image;Afbeelding;;;;;Immagine
-ADD;TOEVOEGEN;AJOUTER;HINZUFÜGEN;;;AGGIUNGI
-REMOVE;VERWIJDEREN;ÉLIMINER;LÖSCHEN;;;RIMUOVI
-This configuration is not possible. Your last change could not be saved.;Deze configuratie is niet mogelijk. Je laatste wijziging kon niet worden opgeslagen.;Cette configuration n'est pas possible. Votre dernière modification n'a pas pu être enregistrée.;Diese Konfiguration ist nicht möglich. Ihre letzte Änderung konnte nicht gespeichert werden.;;;Questa configurazione non è possibile. L'ultima modifica non è stata salvata.
-An error occurred;Er is een fout opgetreden;Une erreur s'est produite;Ein Fehler ist aufgetreten;;;Si è verificato un errore
+en;nl;fr;de;sv;pl;it;no
+Notes;Notities;Remarques;Notizen;Anmärkningar;Notatki;Note;Notater 
+Continue;Doorgaan;Continuer;Fortsetzen;Fortsätt;Kontynuuj;Continua;Fortsette 
+Address;Adres;Adresse;Adresse;Adress;Adres;Indirizzo;Adresse 
+Categories;Categorieën;Catégories;Kategorien;Kategorier;Kategorie;Categorie;Kategorier 
+City;Woonplaats;Ville;Stadt;Stad;Miasto;Città;By 
+Close;Sluiten;Fermer;Schliessen;Stäng;Zamknij;Chiudi;Lukk
+Centimeter;Centimeter;Centimètre;Zentimeter;Centimeter;Centrymetr;Centimetro;Centimeter
+Configure;Configureren;Configurer;Konfigurieren;Konfigurera;Konfiguruj;Configura;Konfigurere 
+Cubic Meter;Kubieke meter;Mètre cubique;Kubikmeter;Kubikmeter;Metry kwadratowe;Metro cubo;Kubikkmeter
+Degrees;Graden;Dégras;Grad;Grader;Stopnie;Gradi;Grader 
+Hour;Uur;Heure;Stunde;Timme;Godzina;Ora;Time 
+Liter;liter;Litre;Liter;Liter;Litr;Litro;Liter
+Meter;Meter;Mètre;Meter;Meter;Metr;Metro;Meter
+Millimeter;Millimeter;Millimètre;Millimeter;Millimeter;Milimetr;Millimetro;Millimeter
+First name;Voornaam;Prénom;Vorname;Förnamn;Imię;Nome;Fornavn 
+House number;Huisnummer;Numéro de la maison;Hausnummer;Husnummer;Numer domu;Numero civico;Husnummer 
+Last name;Achternaam;Nom de famille;Nachname;Efternamn;Nazwisko;Cognome;Etternavn 
+Ms;Mevr.;Madame;Frau;;Pani;Signora;Ms 
+Mobile phone number;Mobiele telefoonnummer;Numéro de téléphone mobile;Handynummer;Mobiltelefonnummer;Numer telefonu komórkowego;Numero di cellulare;Mobilnummer 
+More Info;Meer Info;Plus d'informations;Mehr Informationen;Mer information;Więcej informacji;Ulteriori informazioni;Mer info 
+Pieces;Stuks;Pièces;Stück;Stycken;Sztuki;Pezzi;Stykker 
+Product name;Product naam;Nom du produit;Produktname;Produktnamn;Nazwa produktu;Nome del prodotto;Produktnavn 
+Quantity;Aantal;Numéro;Anzahl;Kvantitet;Ilość;Quantità;Kvantitet 
+Square Meter;Vierkante meter;Mètre carré;Quadratmeter;Kvadratmeter;Metr kwadratowy;Metro quadrato;Kvadratmeter
+Phone number;Telefoonnummer;Numéro de téléphone;Telefonnummer;Telefonnummer;Numer telefonu;Numero di telefono;Telefonnummer 
+Postal code;Postcode;Code postal;Postleitzahl;Postnummer;Kod pocztowy;Codice postale;Postnummer 
+Remarks;Opmerkingen;Remarques;Kommentare;Anmärkningar;Uwagi;Osservazioni;Merknader 
+Request quote;Offerte aanvragen;Devis requise;Angebot anfordern;Begäran om offert;Poproś o ofertę;Richiedi un preventivo;Be om tilbud 
+Mr;De heer;Monsieur;Herr;Mr;Pan;Signor;Herr 
+Starting price*;Vanaf:;prix de départ* ;Eintrittspreis*;Utgångspris*;Cena wyściowa*;Prezzo di partenza*;Startpris* 
+Starting price;vanaf:;du prix;ab einem Wert von;Utgångspris;Cena wyściowa*;Prezzo di partenza;Startpris 
+Total price*;Totaal*;Prix total* ;Gesamtpreis*;Totalt pris*;Cena całkowita*;Prezzo totale*;Totalpris* 
+Base price*;Basis prijs*;Prix de base*;Standardpreis*;Grundpris*;Cena podstawowa*;Prezzo base*;Grunnpris* 
+Additional options*;Toegevoegde opties*;Options additionnelles*;Zusatzoptionen*;Ytterligare tillval*;Dodatkowe opcje*;Opzioni aggiuntive*;Flere alternativer* 
+Share;Delen;Partager;Aktie (zn) / beteiligen (ww);Aktie;Udostępnij;Condividi;Dele
+Your personal configuration code;Uw persoonlijke configuratie code;Votre code de configuration personnel;Ihr persönlicher Konfigurationscode;Din personliga konfigurationskod;Twój osobisty kod konfiguracji;Il tuo codice di configurazione personale;Din personlige konfigurasjonskode
+Your:;Uw:;Votre:;Ihr(e):;Din:;Twój:;Tuo:;Din: 
+Back to Configuration;Terug naar configuratie;Retour Ã  la configuration;Zuruck zur Konfiguration;Tillbaka till konfigurationen;Wróć do Konfiguracji;Torna alla configurazione;Tilbake til konfigurasjon 
+Accept changes;Wijzigingen accepteren;Accepter les modifications;Änderungen übernehmen;Acceptera ändringar;Zaakceptuj zmiany;Accetta modifiche;Godta endringer
+d;d;j;Tg.;d;d;g;d 
+Days;Dagen;Journées;Tage;Dagar;Dni;Giorni;Dager 
+j;j;a;Jr.;j;r;a;j 
+Lease price;Lease prijs;Prix ??de location;Leasingpreis;Pris för leasing;Cena leasingu;Prezzo di locazione;Leiepris 
+Lease term;Leasetermijn;Duré du bail;Laufzeit des Leasingvertrags;Hyrestiden;Warunki leasingu;Termine di locazione;Leieperiode 
+m;m;m;M.;m;m;m;m 
+Months;Maanden;Mois;Monate;Månader;Miesiące;Mesi;Måneder 
+w;w;s;W.;w;t;s;u 
+Weeks;Weken;Semaines;Wochen;Veckor;Tygodnie;Settimane;Uker
+Years;Jaren;années;Jahre;År;Lata;Anni;År 
+Description;Omschrijving;La description;Beschreibung;Beskrivning;Opis;Descrizione;Beskrivelse 
+Unit price*;Prijs*;prix unitaire;Stückpreis* / Einzelpreis*;Pris per enhet*;Cena jednostkowa*;Prezzo unitario*;Enhetspris* 
+Overview;Overzicht;aperçu;Übersicht;Översikt;Podgląd;Panoramica;Oversikt
+*Prices do not include VAT;* Prijzen zijn exclusief btw;* Les prix n'incluent pas la TVA;* Preise excl. MwSt;*Priserna inkluderar inte moms;*Cena nie zawiera VAT;* I prezzi non includono l'IVA;*Prisene inkluderer ikke moms 
+*Prices include VAT;* Prijzen zijn inclusief btw;* Les prix incluent la TVA;* Preise inkl. MwSt;*Priserna inkluderar moms;*Cena zawiera VAT;* I prezzi includono l'IVA;*Prisene inkluderer merverdiavgift
+day;dag;journée;Tag;dag;dzień;giorno; dag 
+mo;mnd.;ms;Mon.;mo;mies.;mo;mnd
+wk;wk.;smn;Wo.;vecka;tydz.;set;uke
+yr;jr.;an;Jr.;år;r.;anno;År 
+Gram;Gram;Gramme;Gramm;Gram;Gram;Grammo;Gram 
+Kilogram;Kilogram;Kilogramme;Kilogramm;Kilogram;Kilogram;Chilogrammo;Kilogram 
+Milligram;Milligram;Milligramme;Milligramm;Milligram;Miligram;Milligrammo;Milligram 
+Contact Info;Contact informatie;Informations de contact;Kontakt Informationen;Kontaktuppgifter;Informacje kontaktowe;Informazioni di contatto;Kontaktinformasjon 
+Personal Info;Persoonlijke informatie;Informations personnelles;Persönliche Informationen;Personlig information;Dane osobowe;Informazioni personali;Personlig info 
+Your request has been submitted!;Uw aanvraag is verzonden!;Votre demande a été envoyée !;Ihre Anfrage wurde gesendet!;Din förfrågan har skickats!;Twoje zapytanie zostało wysłane!;La tua richiesta è stata inviata!;Din forespørsel er sendt! 
+Download Pdf;Download Pdf;Télécharger le fichier PDF;PDF Herunterladen;Ladda ner Pdf;Pobierz plik PDF;Scarica Pdf;Last ned PDF 
+Email Pdf;Email Pdf;Email le fichier PDF;E-Mail PDF;E-post Pdf;Wyślij email z Pdf;Invia Pdf tramite email;Send PDF på e-post 
+Email;Email;Email;E-Mail;E-post;Email;Email;E-post 
+Add configuration;Extra configuratie toevoegen;Ajouter une configuration;Konfiguration hinzufügen;Lägg till konfiguration;Dodaj konfigurację;Aggiungi configurazione;Legg til konfigurasjon 
+Add to quotation;Toevoegen aan offerte;Ajouter au devis;An das Angebot hinzufügen;Lägg till i offert;Dodaj do oferty;Aggiungi al preventivo;Legg til i tilbud 
+Additional options;Toegevoegde opties;Options additionnelles;Zusatzoptionen;Ytterligare alternativ;Dodatkowe opcje;Opzioni aggiuntive;Flere alternativer 
+Base price;Basis prijs;Prix de base;Standardpreis;Grundpris;Cena podstawowa;Prezzo di base;Grunnpris 
+Total price;Totaal;Prix total;Gesamtpreis*;Totalt pris;Cena całkowita;Prezzo totale;Totalpris 
+Unit price;Stuk prijs;Prix unitaire;Stückpreis / Einzelpreis;Pris per enhet;Cena jednostkowa;Prezzo unitario;Enhetspris 
+Company name;Bedrijfsnaam;Nom de la compagnie;Name des Unternehmens;Företagets namn;Nazwa firmy;Nome dell'azienda;Firmanavn 
+Last name Prefix;Voorvoegsel;Nom de famille;Präfix Ihres Nachnamen;Efternamn Prefix;Prefiks nazwiska;Prefisso del cognome;Prefiks for etternavn 
+Search;Zoeken;Chercher;suchen;Sök;Szukaj;Cerca;Søk
+To continue you need to make a choice for the following:;Om verder te gaan, moet je een keuze maken voor het volgende:;Pour continuer, vous devez faire un choix pour ce qui suit:;Um fortzufahren, müssen Sie eine der folgenden Optionen auswählen:;För att kunna fortsätta måste du göra ett val för följande:;Aby kontynuować, musisz dokonać wyboru dla następujących elementów:;Per continuare è necessario effettuare una scelta per quanto segue:;For å fortsette må du velge følgende: 
+Unanswered mandatories;Onbeantwoorde vereisten;Exigences non répondues;Unbeantwortete Erforderlichkeiten;obesvarade uppdrag;Obowiązkowe zlecenia bez odpowiedzi;Obblighi non risolti;Ubesvarte obligatoriske felt
+Resume configuration;Configuratie hervatten;reprendre la configuration;Konfiguration fortsetzen;Konfigurering av CV;Wznów konfigurację;Riprendi la configurazione;Fortsett konfigurasjonen
+Country;Land;Pays;Land;Land;Kraj;Nazione;Land 
+Street;Straat;Rue;Strasse;Gata;Ulica;Via;Gate 
+Logout;Uitloggen;Connectez - Out;ausloggen;Logga ut;Wyloguj;Logout;Logout 
+Next;Volgende;Prochain;Weiter;Nästa;Dalej;Avanti;Neste 
+Previous;Vorige;Précédent;Zurück;Föregående;Poprzednio;Indietro;Forrige
+Salutation;Aanhef;Salutation;Anrede;Hälsning;Zwrot grzecznościowy;Saluto;Hilsen 
+Send;Versturen;Envoyer;senden;Skicka;Wyślij;Invia;Send
+Switch Configuration;Kies Configuratie;choisir la configuration;Konfiguration wählen;Konfigurering av växlar;Przełącz konfigurację;Cambia configurazione;Bytt konfigurasjon 
+Different shipping address;Ander verzendadres;Adresse de livraison différente;Andere Lieferadresse (ontvanger toch?);Annan leveransadress;Inny adres wysyłki;Indirizzo di spedizione diverso;Annen leveringsadresse 
+Shipping address;Verzendingsadres;Adresse de livraison;Lieferadresse;Leveransadress;Adres wysyłki;Indirizzo di spedizione;Leveringsadresse 
+Adjustment required;Aanpassing vereist;Ajustement requis;Änderung erforderlich;Anpassning krävs;Wymagane dostosowanie;Modifica richiesta;Krever justering 
+Requires the following to be removed;Vereist de volgende elementen te verwijderen;Il faut retirer les éléments suivants;Folgendes muss entfernt werden;Kräver att följande tas bort;Wymaga usunięcia następujących elementów;Richiede la rimozione dei seguenti elementi;Krever at følgende fjernes: 
+The selection of feature;De selectie van feature;La sélection de la fonctionnalité;Funktionsauswahl / Feature-Auswahl;Valet av funktion;Wybór elementów;La selezione della caratteristica;Utvalget av funksjon 
+Conflicting values;Conflicterende waarden;Des valeurs contradictoires;unvereinbare Werte;Motstridiga värden;Sprzeczne wartości;Valori in conflitto;Motstridende verdier 
+requested value of;gevraagde waarde van;valeur demandée de;angeforderter Wert von;Begärt värde för;żadana wartość;valore richiesto di;forespurt verdi av
+will be;zal zijn;sera;wird sein;kommer att vara;będzie;sarà;vil være 
+Requires adjustment of values;Vereist aanpassing van waarden;Nécessite un ajustement des valeurs;Eine Änderung der Werte is erforderlich;Kräver justering av värden;Wymaga korekty wartości;Richiede la regolazione dei valori;Krever justering av verdier 
+Cancel;Annuleren;Annuler;abbrechen / beenden;Avbryt;Anuluj;Cancella;Annullere 
+Complete;Afronden;Complet;vollenden / fertig stellen;Slutför;Skończ;Completa;Fullføre
+Select CRM account;Selecteer CRM account;Compte Selecteer CRM;wählen / selektieren Sie einen CRM-Konto;Välj CRM-konto;Wybierz konto CRM;Seleziona account CRM;Velg CRM-konto 
+New CRM account;Nieuw CRM account;Nouveau compte CRM;Neues CRM-Konto;Nytt CRM-konto;Nowe konto CRM;Nuovo account CRM;Ny CRM-konto 
+Full name (default);Volledige naam (default);Nom complet (par défaut);vollständiger Name (default);Fullständigt namn (standard);Imię i nazwisko (domyślnie);Nome completo (predefinito);Fullt navn (standard) 
+Address line;Adres;Adresse;Adresse;Adressrad;Linia adresowa;Linea dell'indirizzo;Adresselinje 
+Primary phone;Telefoon;Téléphone;Haupttelefon ;Primär telefon;Telefon główny;Telefono principale;Primær telefon 
+Relationship type;Relatie soort;Type de relation;Art der Beziehung;Typ av relation;Typ relacji;Tipo di relazione;Type relasjon 
+Edit;Aanpassen;Ajuster;Ändern;Redigera;Edytuj;Modifica;Redigere 
+Save;Opslaan;Sauvez;speichern;Spara;Zapisz;Salva;Lagre 
+Customer;Klant;Client;Kunde;Kund;Klient;Cliente;Kunde 
+Change customer;Wijzig klant;Changer de client;Kunde ändern;Ändra kund;Zmień klienta;Cambia cliente;Endre kunde 
+Delivery;Levering;Livraison;Lieferung;Leverans;Dostawa;Consegna;Levering 
+Ship to customer;Verzenden naar klant;Livraison au client;An den Kunden senden;Skicka till kunden;Wyślij do klienta;Spedisci al cliente;Send til kunde 
+Change shipping address;Wijzig verzendingsadres;Modifier l'adresse de livraison;Lieferadresse ändern;Ändra leveransadress;Znień adres dostawy;Cambia indirizzo di spedizione;Endre leveringsadresse 
+Business Info;Zakelijke informatie;Informations commerciales;Geschäftsinformationen;Information om företaget;Informacje o firmie;Informazioni aziendali;Informasjon om bedriften 
+IBAN;IBAN;IBAN;IBAN-Nummer;IBAN;IBAN;IBAN;IBAN 
+CoC number;KvK nummer;Numéro de la Chambre de commerce;Nummer der Handelskammer;CoC-nummer;Numer REGON;Numero CoC;CoC-nummer 
+VAT number;BTW nummer;Numéro de TVA;Umsatzsteuer Identifikationsnummer (USt-ID);Momsnummer;Numer VAT;Numero IVA;MVA-nummer 
+Total;Totaal;Total;Gesamt;Totalt;Razem;Totale;Totalt
+Enter configuration code;Voer configuratie code in;Entrez le code de configuration;Konfigurationscode eingeben;Ange konfigurationskod;Wprowadź kod konfiguracji;Inserisci il codice di configurazione;Angi konfigurasjonskode 
+The required fields must be filled!;De verplichte velden moeten worden ingevuld!;Les champs obligatoires doivent Ãªtre remplis !;Die obligatorischen Felder müssen ausgefüllt werden!;De obligatoriska fälten måste fyllas i!;Wymagane pola muszą być uzupełnione!;I campi obbligatori devono essere compilati!;De obligatoriske feltene må fylles ut! 
+Create quote;Offerte aanmaken;Création d'un devis;Angebot erstellen;Skapa offert;Stwórz ofertę;Crea preventivo;Opprett tilbud 
+Checkout;Kassa;Caisse;Kasse;Kassan;Kasa;Pagamento;Gå til kasse
+New quotation created;Nieuwe offerte aangemaakt;Création d'un nouveau devis;Neues Angebot erstellt;Ny offert skapad;Nowa oferta stworzona;Nuovo preventivo creato;Nytt tilbud opprettet 
+Create new quotation;Maak nieuwe offerte aan;Créer une nouvelle offre;Neues Angebot erstellen;Skapa en ny offert;Stwórz nową ofertę;Crea nuovo preventivo;Opprett nytt tilbud 
+Yes;Ja;Oui;Ja  ;Ja;Tak;Sì;Ja 
+No;Nee;Non;Nein;Nej;Nie;No;Nei 
+Are you sure?;Weet je het zeker?;Vous êtes sûr ?;Sind Sie sich sicher?;Är du säker?;Czy jesteś pewny/a?;Sei sicuro?;Er du sikker?
+Leaving this page may cause you to lose your configuration. Are you sure you want to leave this page?;Het verlaten van deze pagina kan leiden tot verlies van je configuratie. Weet je zeker dat je de pagina wilt verlaten?;En quittant cette page, vous risquez de perdre votre configuration. Vous êtes sûr de vouloir quitter la page ?;Wenn Sie diese Seite verlassen, könnte Ihre Konfiguration verloren gehen. Möchten Sie die Seite wirklich verlassen?;Om du lämnar den här sidan kan du förlora din konfiguration. Är du säker på att du vill lämna den här sidan?;;Lasciare questa pagina potrebbe comportare la perdita della configurazione. Sei sicuro di voler lasciare questa pagina?;Hvis du forlater denne siden, kan det føre til at du mister konfigurasjonen. Er du sikker på at du vil forlate denne siden? 
+Invalid email;Verkeerd emailadres;Adresse électronique erronée;Ungültige E-Mailadresse;Felaktigt e-postmeddelande;Nieprawidłowy adres email;Email non valida;Ugyldig e-post 
+This field is required;Dit invoerveld is verplicht;Ce champ de saisie est obligatoire;Diese Eingabefeld ist obligatorisch;Det här fältet är obligatoriskt;To pole jest wymagane;Questo campo è obbligatorio;Dette feltet er obligatorisk
+Copy configuration;Configuratie kopiëren;Copier la configuration;Konfiguration kopieren;Kopiera konfigurationen;Kopiuj konfigurację;Copia configurazione;Kopier konfigurasjon
+Would you like to copy this configuration?;Wilt u de configuratie kopiëren?;Voulez-vous copier cette configuration ?;Wollen Sie diese Konfiguration kopieren?;Vill du kopiera den här konfigurationen?;Czy chcesz skopiować konfigurację?;Vuoi copiare questa configurazione?; Vil du kopiere denne konfigurasjonen? 
+Copy;Kopieer;Copie;kopieren;Kopiera;Kopiuj;Copia;Kopi 
+Delete configuration;Verwijder configuratie;Supprimer la configuration;Konfiguration löschen;Radera konfiguration;Usuń konfigurację;Elimina configurazione;Slett konfigurasjon 
+Are you sure you want to delete this configuration?;Weet u zeker dat u deze configuratie wilt verwijderen?;Êtes-vous sûr de vouloir supprimer cette configuration ?;Sind Sie sicher, dass Sie diese Konfiguration löschen wollen?;Är du säker på att du vill radera den här konfigurationen?;Czy na pewno chcesz usunąć tę konfigurację?;Sei sicuro di voler eliminare questa configurazione?;Er du sikker på at du vil slette denne konfigurasjonen? 
+Save configuration code;Bewaar configuratie code;Sauvegarder le code de configuration;Bewahren Sie den Konfigurationscode;Spara konfigurationskod;Zapisz kod konfiguracji;Salva il codice di configurazione;Lagre konfigurasjonskode 
+Using this code you can reopen your configuration at anytime, share it with friends or co-workers or send it to a dealer.;Met gebruik van deze code is het mogelijk om jouw configuratie altijd te openen, deel dit met je vrienden of collega's of verstuur de code naar een dealer.;Grâce à ce code, il est possible d'ouvrir votre configuration à tout moment, de la partager avec vos amis ou collègues ou d'envoyer le code à un revendeur.;Mit diesem Code können Sie Ihre Konfiguration jederzeit öffnen. Teilen Sie ihn mit Ihren Freunden und Kollegen oder schicken Sie den Code an einen Händler.;Med den här koden kan du öppna konfigurationen igen när som helst, dela den med vänner eller kollegor eller skicka den till en återförsäljare.;Za pomocą tego kodu możesz w dowolnym momencie ponownie otworzyć konfigurację, udostępnić ją znajomym lub współpracownikom lub wysłać do sprzedawcy.;Utilizzando questo codice, puoi riaprire la tua configurazione in qualsiasi momento, condividerla con amici o colleghi o inviarla a un rivenditore.;Med denne koden kan du når som helst åpne konfigurasjonen på nytt, dele den med venner eller kolleger eller sende den til en forhandler.
+Copy link;Kopieer link;Copier le lien;Link kopieren;Kopiera länk;Kopiuj link;Copia link;Kopier kobling 
+Language;Taal;Langue;Sprache;Språk;Język;Lingua;Språk 
+Name;Naam;;;;;Nome;Navn
+Code;Code;;;;;Codice;Kode
+Reference;Referentie;;;;;Riferimento;Referanse
+Price;Prijs;;;;;Prezzo;Pris
+Image;Afbeelding;;;;;Immagine;Bilde
+ADD;TOEVOEGEN;AJOUTER;HINZUFÜGEN;;;AGGIUNGI;LEGG TIL
+REMOVE;VERWIJDEREN;ÉLIMINER;LÖSCHEN;;;RIMUOVI;FJERN
+This configuration is not possible. Your last change could not be saved.;Deze configuratie is niet mogelijk. Je laatste wijziging kon niet worden opgeslagen.;Cette configuration n'est pas possible. Votre dernière modification n'a pas pu être enregistrée.;Diese Konfiguration ist nicht möglich. Ihre letzte Änderung konnte nicht gespeichert werden.;;;Questa configurazione non è possibile. L'ultima modifica non è stata salvata.;Denne konfigurasjonen er ikke mulig. Den siste endringen kunne ikke lagres.
+An error occurred;Er is een fout opgetreden;Une erreur s'est produite;Ein Fehler ist aufgetreten;;;Si è verificato un errore;Det oppstod en feil
