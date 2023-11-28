@@ -793,3 +793,10 @@ Debtor name;Debiteur naam;;;;;;;Nome del debitore
 Create revision;Maak revisie;;;;;;;Revisione della creazione
 Expiry Date;Vervaldatum;;;;;;;Data di scadenza
 Request Demo;Demo Aanvragen;;;;;;;
+Is greater or equal to;Is groter dan of gelijk aan;Est supérieur ou égal à;Ist größer oder gleich;Är större än eller lika med;Jest większe lub równe;Er større enn eller lik;Es mayor o igual a;È maggiore o uguale a
+Is equal to;Is gelijk aan;Est égal à;Ist gleich;Är lika med;Jest równe;Er lik;Es igual a;È uguale a
+Is less or equal to;Is kleiner dan of gelijk aan;Est inférieur ou égal à;Ist kleiner oder gleich;Är mindre än eller lika med;Jest mniejsze lub równe;Er mindre enn eller lik;Es menor o igual a;È minore o uguale a
+Contains;Bevat;Contient;Enthält;Innehåller;Zawiera;Inneholder;Contiene;Contiene
+Starts with;Begint met;Commence par;Beginnt mit;Börjar med;Zaczyna się od;Starter med;Empieza con;Inizia con
+Ends with;Eindigt met;Se termine par;Endet mit;Slutar med;Kończy się na;Slutter med;Termina con;Finisce con
+
