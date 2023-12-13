@@ -1,0 +1,20 @@
+name: 'Check all lines have an equal amount of columns'
+
+on:
+  pull_request:
+
+jobs:
+  check:
+    name: 'Check column count'
+    runs-on: ubuntu-20.04
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+    - name: Check
+      run: |
+        ./scripts/test-columns.sh ems_translations.csv
+        ./scripts/test-columns.sh showroom_translations.csv
+
