@@ -1,11 +1,11 @@
-name: 'Check all lines have an equal amount of columns'
+name: 'Check all headers are valid'
 
 on:
   pull_request:
 
 jobs:
   check:
-    name: 'Check column count'
+    name: 'Check headers'
     runs-on: ubuntu-20.04
 
     defaults:

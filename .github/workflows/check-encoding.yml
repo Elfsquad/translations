@@ -1,11 +1,11 @@
-name: 'Check all lines have an equal amount of columns'
+name: 'Check all translations have the right encoding'
 
 on:
   pull_request:
 
 jobs:
   check:
-    name: 'Check column count'
+    name: 'Check encoding'
     runs-on: ubuntu-20.04
 
     defaults:
