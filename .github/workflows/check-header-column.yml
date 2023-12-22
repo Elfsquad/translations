@@ -1,0 +1,24 @@
+name: 'Check all headers are valid'
+
+on:
+  pull_request:
+
+jobs:
+  check:
+    name: 'Check headers'
+    runs-on: ubuntu-20.04
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+    - name: Checkout uses: actions/checkout@v2
+      with:
+        token: '${{ secrets.GITHUB_TOKEN }}'
+
+    - name: Check
+      run: |
+        ./scripts/test-headers.sh ems_translations.csv
+        ./scripts/test-headers.sh showroom_translations.csv
+
