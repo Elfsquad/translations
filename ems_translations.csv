@@ -293,7 +293,7 @@ Paste;Plakken;Coller;Einfügen;Klistra in;Ukryj we wprowadzaniu zamówienia;Lime
 Switch to configuration model;Schakel over naar het configuratiemodel;Passer au modèle de configuration;Zum Konfigurationsmodell wechseln;Växla till konfigurationsmodell;Wklej;Bytt til konfigurasjonsmodell;Cambiar al modelo de configuración;Cambia a modello di configurazione
 OR;OF;OU;OR;OR;Przełącz na model konfiguracji;ELLER;O;O
 Showroom;Showroom;Salle d'exposition;Showroom;Showroom;LUB;Showroom;Sala de exposición;Salone
-Order Entry;Order Entry;Entrée des commandes;Order Entry;Ingång av beställningar;Showroom;Bestill registrering;Orden de entrada;Inserimento ordini
+Order Entry;Order Entry;Entrer des commandes;Order Entry;Ingång av beställningar;Showroom;Bestill registrering;Orden de entrada;Inserimento ordini
 Restore;Herstellen;Restaurer;Wiederherstellen;Återställ;Wprowadzenie zamówienia;Gjenopprette;Restaurar;Ripristina
 Configuration model was last published at;Configuratiemodel is voor het laatst gepubliceerd op;Le modèle de configuration a été publié pour la dernière fois à l'adresse;Das Konfigurationsmodell wurde zeletzt veröffentlicht auf;Konfigurationsmodell publicerades senast på;Przywróć;Konfigurasjonsmodellen ble sist publisert p?;El modelo de configuración se publicó por última vez en;L'ultimo modello di configurazione è stato pubblicato il
 Content was last published at;Inhoud is voor het laatst gepubliceerd op;Le contenu a été publié pour la dernière fois à;Der Inhalt wurde zuletzt veröffentlicht auf;Innehållet publicerades senast på;Model konfiguracji został ostatnio opublikowany na stronie;Innholdet ble sist publisert p?;El contenido se publicó por última vez en;Il contenuto è stato pubblicato l'ultima volta il
@@ -799,3 +799,6 @@ Is less or equal to;Is kleiner dan of gelijk aan;Est inférieur ou égal à;Ist 
 Contains;Bevat;Contient;Enthält;Innehåller;Zawiera;Inneholder;Contiene;Contiene
 Starts with;Begint met;Commence par;Beginnt mit;Börjar med;Zaczyna się od;Starter med;Empieza con;Inizia con
 Ends with;Eindigt met;Se termine par;Endet mit;Slutar med;Kończy się na;Slutter med;Termina con;Finisce con
+Start configuring the order you need.;Begin met het configureren van de order die u nodig heeft.;Commencez à configurer la commande dont vous avez besoin.;Beginnen Sie mit der Konfiguration der Bestellung, die Sie benötigen.;Börja konfigurera den order du behöver.;Rozpocznij konfigurowanie zamówienia, którego potrzebujesz.;Begynn å konfigurere bestillingen du trenger.;Comience a configurar el pedido que necesita.;Inizia a configurare l'ordine di cui hai bisogno.
+Welcome back;Welkom terug;Bienvenue à nouveau;Willkommen zurück;Välkommen tillbaka;Witamy z powrotem;Velkommen tilbake;Bienvenido de nuevo;Bentornato
+Help;Help;Aide;Hilfe;Hjälp;Pomoc;Hjelp;Ayuda;Aiuto
