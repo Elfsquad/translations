@@ -756,8 +756,6 @@ Text for exporting;Tekst voor exporteren;;;;;;Texto para exportar;Testo per l'es
 Upload an image of yourself, or change the e-mail adres which is used to login.;Upload een afbeelding van jezelf, of verander het e-mail adres dat wordt gebruikt om in te loggen.;;;;;;Cargue una imagen suya o cambie la dirección de correo electrónico utilizada para acceder a su cuenta.;Caricare una propria immagine o modificare l'indirizzo e-mail utilizzato per il login.;Carregue uma imagem sua ou altere o endereço de e-mail usado para fazer login.;Augšupielādējiet sevis attēlu vai mainiet e-pasta adresu, ko izmanto, lai pieteiktos.;Įkelkite savo atvaizdą arba pakeiskite el. Pašto adresą, kuris naudojamas prisijungti.
 Change the password that is used to login into your account.;Verander het wachtwoord dat wordt gebruikt om in te loggen op je account.;;;;;;Cambia la contraseña que se utiliza para acceder a tu cuenta.;Modificare la password utilizzata per accedere al proprio account.;Altere a senha usada para fazer login em sua conta.;Mainiet paroli, ko izmanto, lai pieteiktos jūsu kontā.;Pakeiskite slaptažodį, kuris naudojamas prisijungti prie jūsų paskyros.
 Change;Verander;;;;;;Cambiar;Modifica;Mudar;Mainīt;Pakeisti
-Add an extra layer of security to your account.;Voeg een extra laag beveiliging toe aan je account.;;;;;;Añada una capa adicional de seguridad a su cuenta.;Aggiungere un ulteriore livello di sicurezza al proprio account.;Adicione uma camada extra de segurança à sua conta.;Pievienojiet kontam papildu drošības slāni.;Į savo sąskaitą pridėkite papildomą saugos sluoksnį.
-Enable two factor authentication;Schakel tweestapsverificatie in;;;;;;Activar la autenticación de dos factores;Abilitare l'autenticazione a due fattori;Habilite a autenticação de dois fatores;Iespējot divu faktoru autentifikāciju;Įgalinkite dviejų faktorių autentifikavimą
 Disable two factor authentication;Schakel tweestapsverificatie uit;;;;;;Desactivar la autenticación de dos factores;Disattivare l'autenticazione a due fattori;Desative a autenticação de dois fatores;Atspējojiet divu faktoru autentifikāciju;Išjunkite dviejų faktorių autentifikavimą
 Disable SSO;Schakel SSO uit;;;;;;Desactivar SSO;Disattivare SSO;Desativar SSO;Atspējot SSO;Išjungti SSO
 Enable SSO;Schakel SSO in;;;;;;Activar SSO;Abilitare SSO;Habilitar SSO;Iespējot SSO;Įgalinti SSO
@@ -811,27 +809,17 @@ Enable this setting to have absolute Feature sales prices for Sub-organizations.
 The conflict dialog opens up when there is a conflict in selected options when configuring a product in the "Order Entry" page. It enables the user to select different options, in order to resolve the conflict. If the dialog is disabled, the software automatically enables/disables certain options such that the selected option is enabled.;Het conflictvenster opent wanneer er een conflict is in geselecteerde opties bij het configureren van een product op de pagina "Order Entry". Het stelt de gebruiker in staat om verschillende opties te selecteren om het conflict op te lossen. Als het dialoogvenster is uitgeschakeld, schakelt de software automatisch bepaalde opties in/uit zodat de geselecteerde optie ingeschakeld is.;;;;;;;;;;
 Specify which locale should be used for users without locale settings;Geef aan welke locale gebruikt moet worden voor gebruikers zonder locale-instellingen.;;;;;;;;;;
 Account info;Account informatie;;Kontoinformation;;;;;;;;
-Change the password that is used to login into your account.;;;Ändern Sie das Passwort, das zum Einloggen in Ihr Konto verwendet wird.;;;;;;;;
 Change password;Wijzig wachtwoord;;Passwort ändern;;;;;;;;
 Current password;Huidig wachtwoord;;Aktuelles Passwort;;;;;;;;
 New password;Nieuw wachtwoord;;Neues Passwort;;;;;;;;
 Confirm password;Bevestig wachtwoord;;Passwort bestätigen;;;;;;;;
 Recommended;Aanbevolen;;Bestätigen;;;;;;;;
-Add an extra layer of security to your account.;;;Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu.;;;;;;;;
-Enable two factor authentication;;;Zwei-Faktor-Authentifizierung aktivieren;;;;;;;;
 Change the default currency and language for your account, which is used in the EMS.;Wijzig de standaardvaluta en taal voor uw account, die wordt gebruikt in het EMS.;;Ändern Sie die Standardwährung und -sprache für Ihr Konto, die im EMS verwendet werden.;;;;;;;;
-Disable SSO;;;SSO deaktivieren;;;;;;;;
-The following permissions have been granted to your account:;;;Die folgenden Berechtigungen wurden Ihrem Konto erteilt:;;;;;;;;
-Past logins;;;Frühere Anmeldungen;;;;;;;;
-You have logged into your account from the following devices:;;;Sie haben sich von den folgenden Geräten aus in Ihr Konto eingeloggt:;;;;;;;;
-Delete account;;;Konto löschen;;;;;;;;
-Delete your account;;;Löschen Sie Ihr Konto;;;;;;;;
 Guides;Handleidingen;;Leitfäden;;;;;;;;
 Turn 'Getting Started' guides on/off;'Getting Started'-handleidingen in-/uitschakelen;;'Getting Started'-Leitfäden ein-/ausschalten;;;;;;;;
 Showroom guide;Showroom handleiding;;Showroom-Leitfaden;;;;;;;;
 Items per page;;;Elemente pro Seite;;;;;;;;
 Delete feature;Verwijder feature;;Entfernen-Funktion;;;;;;;;
-Edit;;;Bearbeiten;;;;;;;;
 Unanswered mandatory features;;;Unbeantwortete Verpflichtungen;;;;;;;;
 Please make a selection for the following options before continuing:;;;Bitte treffen Sie eine Auswahl für die folgenden Optionen, bevor Sie fortfahren:;;;;;;;;
 Add new Feature for:;Voeg nieuwe Feature toe voor:;;;;;;;;;;
