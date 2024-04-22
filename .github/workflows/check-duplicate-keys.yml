@@ -1,0 +1,25 @@
+name: 'Check all translation keys are unique'
+
+on:
+  pull_request:
+
+jobs:
+  check:
+    name: 'Check duplicate keys'
+    runs-on: ubuntu-20.04
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        token: '${{ secrets.GITHUB_TOKEN }}'
+
+    - name: Check
+      run: |
+        python3 ./scripts/test-duplicate-key.py ems_translations.csv
+        python3 ./scripts/test-duplicate-key.py showroom_translations.csv
+
