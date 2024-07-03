@@ -753,9 +753,9 @@ External name;Externe naam;;;;;;Nombre externo;Nome esterno;Nome externo;Ārēja
 Extended descriptions;Uitgebreide beschrijvingen;;;;;;Descripciones ampliadas;Descrizioni estese;Descrições estendidas;Paplašināti apraksti;Išplėstiniai aprašymai
 Explanation;Verklaring;;;;;;Explicación;Spiegazione;Explicação;Paskaidrojums;Paaiškinimas
 Text for exporting;Tekst voor exporteren;;;;;;Texto para exportar;Testo per l'esportazione;Texto para exportação;Eksportēšanas teksts;Eksporto tekstas
-Upload an image of yourself, or change the e-mail adres which is used to login.;Upload een afbeelding van jezelf, of verander het e-mail adres dat wordt gebruikt om in te loggen.;;;;;;Cargue una imagen suya o cambie la dirección de correo electrónico utilizada para acceder a su cuenta.;Caricare una propria immagine o modificare l'indirizzo e-mail utilizzato per il login.;Carregue uma imagem sua ou altere o endereço de e-mail usado para fazer login.;Augšupielādējiet sevis attēlu vai mainiet e-pasta adresu, ko izmanto, lai pieteiktos.;Įkelkite savo atvaizdą arba pakeiskite el. Pašto adresą, kuris naudojamas prisijungti.
-Change the password that is used to login into your account.;Verander het wachtwoord dat wordt gebruikt om in te loggen op je account.;;;;;;Cambia la contraseña que se utiliza para acceder a tu cuenta.;Modificare la password utilizzata per accedere al proprio account.;Altere a senha usada para fazer login em sua conta.;Mainiet paroli, ko izmanto, lai pieteiktos jūsu kontā.;Pakeiskite slaptažodį, kuris naudojamas prisijungti prie jūsų paskyros.
-Change;Verander;;;;;;Cambiar;Modifica;Mudar;Mainīt;Pakeisti
+Upload an image of yourself, or change the e-mail adres which is used to login.;Upload een afbeelding van jezelf, of verander het e-mail adres dat wordt gebruikt om in te loggen.;;;;;; Laden Sie ein Bild von sich hoch oder ändern Sie die E-Mail-Adresse, die zum Anmelden verwendet wird.;Cargue una imagen suya o cambie la dirección de correo electrónico utilizada para acceder a su cuenta.;Caricare una propria immagine o modificare l'indirizzo e-mail utilizzato per il login.;Carregue uma imagem sua ou altere o endereço de e-mail usado para fazer login.;Augšupielādējiet sevis attēlu vai mainiet e-pasta adresu, ko izmanto, lai pieteiktos.;Įkelkite savo atvaizdą arba pakeiskite el. Pašto adresą, kuris naudojamas prisijungti.
+Change the password that is used to login into your account.;Verander het wachtwoord dat wordt gebruikt om in te loggen op je account.;;;;;;Ändern Sie das Passwort, das für die Anmeldung bei Ihrem Konto verwendet wird.;Cambia la contraseña que se utiliza para acceder a tu cuenta.;Modificare la password utilizzata per accedere al proprio account.;Altere a senha usada para fazer login em sua conta.;Mainiet paroli, ko izmanto, lai pieteiktos jūsu kontā.;Pakeiskite slaptažodį, kuris naudojamas prisijungti prie jūsų paskyros.
+Change;Verander;;;;;;Ändern;Cambiar;Modifica;Mudar;Mainīt;Pakeisti
 Disable two factor authentication;Schakel tweestapsverificatie uit;;;;;;Desactivar la autenticación de dos factores;Disattivare l'autenticazione a due fattori;Desative a autenticação de dois fatores;Atspējojiet divu faktoru autentifikāciju;Išjunkite dviejų faktorių autentifikavimą
 Disable SSO;Schakel SSO uit;;;;;;Desactivar SSO;Disattivare SSO;Desativar SSO;Atspējot SSO;Išjungti SSO
 Enable SSO;Schakel SSO in;;;;;;Activar SSO;Abilitare SSO;Habilitar SSO;Iespējot SSO;Įgalinti SSO
@@ -815,7 +815,7 @@ Change password;Wijzig wachtwoord;;Passwort ändern;;;;;;;;
 Current password;Huidig wachtwoord;;Aktuelles Passwort;;;;;;;;
 New password;Nieuw wachtwoord;;Neues Passwort;;;;;;;;
 Confirm password;Bevestig wachtwoord;;Passwort bestätigen;;;;;;;;
-Recommended;Aanbevolen;;Bestätigen;;;;;;;;
+Recommended;Aanbevolen;;Empfohlen;Bestätigen;;;;;;;;
 Change the default currency and language for your account, which is used in the EMS.;Wijzig de standaardvaluta en taal voor uw account, die wordt gebruikt in het EMS.;;Ändern Sie die Standardwährung und -sprache für Ihr Konto, die im EMS verwendet werden.;;;;;;;;
 Guides;Handleidingen;;Leitfäden;;;;;;;;
 Turn 'Getting Started' guides on/off;'Getting Started'-handleidingen in-/uitschakelen;;'Getting Started'-Leitfäden ein-/ausschalten;;;;;;;;
@@ -834,3 +834,6 @@ Seach;Zoek;;;;;;;;;;
 Features are your smart building blocks. Create them here so you can use them in your Configuration Models;Feature  zijn je slimme bouwstenen. Maak ze hier zodat je ze kunt gebruiken in je configuratie modellen;;;;;;;;;;
 Used in;Gebruikt in;;;;;;;;;;
 Edit/Delete;Aanpassen/verwijderen;;;;;;;;;;
+Add an extra layer of security to your account;Voeg een extra beveiligingslaag toe aan uw account;Fügen Sie Ihrem Konto eine zusätzliche Sicherheitsebene hinzu;;;;;;;;;;
+Enable two factor authentication button;Schakel tweefactorauthenticatie in;Aktivieren Sie die Zwei-Faktor-Authentifizierung;;;;;;;;;;
+Two factor authentication;Tweefactorauthenticatie;Zwei-Faktor-Authentifizierung;;;;;;;;;;
