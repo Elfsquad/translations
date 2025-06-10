@@ -6,7 +6,7 @@ on:
 jobs:
   check:
     name: 'Check headers'
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-2204-4
 
     defaults:
       run:
