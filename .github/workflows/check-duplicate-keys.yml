@@ -6,7 +6,7 @@ on:
 jobs:
   check:
     name: 'Check duplicate keys'
-    runs-on: ubuntu-2204-4
+    runs-on: ubuntu-latest
 
     defaults:
       run:

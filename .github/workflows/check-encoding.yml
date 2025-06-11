@@ -6,7 +6,7 @@ on:
 jobs:
   check:
     name: 'Check encoding'
-    runs-on: ubuntu-2204-4
+    runs-on: ubuntu-latest
 
     defaults:
       run:
