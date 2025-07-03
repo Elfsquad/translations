@@ -177,9 +177,37 @@ The configuration model has changed. To open this configuration, the following v
 Contact your admin for more information.;Neem contact op met je admin voor meer informatie.;Contactez votre administrateur pour plus d'informations.;Für weitere Informationen wenden Sie sich bitte an den Administrator.;Kontakta din administratör för mer information.;Aby uzyskać więcej informacji, skontaktuj się z administratorem.;Contatta il tuo amministratore per ulteriori informazioni.;Kontakt administratoren for mer informasjon.;Póngase en contacto con su administrador para obtener más información.
 Select;Selecteren;Sélectionnez;Auswählen;Välj;Wybierz;Seleziona;Velg;Seleccionar
 Because the value of;Omdat de waarde van;Parce que la valeur de;Weil der Wert von;Eftersom värdet på;Ponieważ wartość;Poiché il valore di;Fordi verdien av;Porque el valor de
-Add Message Bar;Berichtenbalk toevoegen;Ajouter une barre de message;Nachrichtenleiste hinzufügen;Lägg till meddelandefält;Dodaj pasek wiadomości;Aggiungi barra dei messaggi;Legg til meldingslinje;Agregar barra de mensajes
+Customer reference;Klantreferentie;Référence client;Kundenreferenz;Kundreferens;Preferencja klienta;Riferimento del cliente;Referanse for kunder;Referencia de cliente
+Create Contact;Contact aanmaken;Créer un contact;Kontakt erstellen;Skapa kontakt;Utwórz kontakt;Crea contatto;Opprett kontakt;Crear contacto
+Full name;Volledige naam;Nom complet (par défaut);Vollständiger Name;Fullständigt namn;Imię i nazwisko;Nome completo;Fullt navn;Nombre completo
+Preview:;Voorbeeld:;Aperçu:;Vorschau:;Förhandsgranska:;Podgląd:;Anteprima:;Forhåndsvisning:;Avance:
+Hidden;Verborgen;Masqué;Verborgen;Dolda;Ukryty;Nascosto;Skjult;Oculto
+Salutation;Begroeting;Salutation;Anrede;Hälsning;Zwrot grzecznościowy;Titolo di cortesia;Hilsen;Saludo
+Save changes;Wijzigingen opslaan;Enregistrer les modifications;Änderungen speichern;Spara ändringar;Zapisz zmiany;Salva le modifiche;Lagre endringer;Guardar cambios
+Message text;Berichttekst;Texte du message;Nachrichtentext;Meddelandetext;Treść wiadomości;Testo del messaggio;Meldingstekst;Texto del mensaje
+Surname prefix;Achternaam voorvoegsel;Préfixe du nom;Namenszusatz;Prefix för efternamn;Prefiks nazwiska;Prefisso del cognome;Prefiks for etternavn;Prefijo del apellido
+Deselect all;Deselecteer alles;Désélectionner tout;Alle abwählen;Avmarkera alla;wybrany/e obiekt/y;Deseleziona tutto;Fjern merkingen av alle;Deseleccionar todo
+Value;Waarde;Valeur;Wert;Värde;Wartość;Valore;Verdi;Valor
+State;Provincie;Région;Bundesland;Land;Kraj;Stato;Land;Estado
+warning;waarschuwing;avertissement;Warnung;varning;ostrzeżenie;avvertimento;advarsel;advertencia
+Delivery address;Bezorgadres;Adresse de livraison;Lieferadresse;Leveransadress;Adres dostawy;Indirizzo di consegna;Leveringsadresse;Dirección de entrega
+Disabled;Uitgeschakeld;Désactivé;Deaktiviert;Inaktiverat;Wyłączony;Disabilitato;Ufør;Desactivado
+Create CRM account;CRM account creëren;Créer un compte CRM;CRM Account erstellen;Skapa ett CRM-konto;Utwórz konto CRM;Crea un account CRM;Opprette CRM-konto;Crear cuenta CRM
+Message type;Berichttype;Type de message;Nachrichtentyp;Meddelandetyp;Typ wiadomości;Tipo di messaggio;Meldings-type;Tipo de mensaje
+Edit contact;Bewerk contact;Modifier le contact;Kontakt bearbeiten;Redigera kontakt;Edytuj kontakt;Modifica contatto;Redigere kontakt;Editar contacto
+Select contact;Contact selecteren;Sélectionner le contact;Kontakt auswählen;Välj kontakt;Wybierz kontakt;Seleziona il contatto;Velg kontaktperson;Seleccione un contacto
+Seller;Verkoper;Vendeur;Verkaüfer;Säljare;Sprzedawca;Venditore;Selger;Vendedor
+Postal code;Postcode;Code postal;Postleitzahl;Postnummer;Kod pocztowy;Codice postale;Postnummer;Código Postal
+Default contact;Standaardcontact;Contact par défaut;Standardkontakt;Standardkontakt;Kontakt domyślny;Contatto predefinito;Standard kontakt;Contacto predeterminado
+E-mail;E-mail;E-mail;E-Mail;E-post;E-mail;E-mail;E-post;Correo electrónico
+Add Message Bar; Berichtbalk toevoegen; Ajouter une barre de message; Nachrichtenleiste hinzufügen; Lägg till meddelanderad; Dodaj pasek wiadomości; Aggiungi barra messaggi; Legg til meldingslinje; Agregar barra de mensaje
+Field;Veld;Champ;Feld;Fält;Pole;Campo;Felt;Campo
+Contact info;Contactgegevens;Coordonnées;Kontaktdaten;Kontaktinformation;Informacje kontaktowe;Informazioni di contatto;Kontaktinformasjon;Información de contacto
+General info;Algemene informatie;Informations générales;Allgemeine Informationen;Allmän information;Informacje ogólne;Informazioni generali;Generell info;Información general
+Other;Overig;Autre;Andere;Annat;Inne;Altro;Annet;Otro
+Relation type;Relatietype;Type de relation;Beziehungsart;Relationstyp;Typ relacji;Tipo di relazione;Relasjonstype;Tipo de relación
+Required;Vereist;Obligatoire;Erforderlich;Obligatoriskt;Wymagane;Obbligatorio;P?evd;Requerido
+All;Alle;Tout;Alle;Alla;Wszystko;Tutto;Alle;Todo
+This change can be caused by an update to the configuration model or by a change in the parent configuration.;De verandering kan veroorzaakt zijn door een update in het  of door een verandering van de bovenliggende configuratie.;Ce changement peut être causé par une mise à jour du modèle de configuration ou par une modification de la configuration parente.;Die Änderung kann durch eine Aktualisierung im Konfigurationsmodell oder durch eine Änderung in der Parent-Konfiguration verursacht sein.;Den här ändringen kan orsakas av en uppdatering av konfigurationsmodellen eller av en ändring i den överordnade konfigurationen.;Ta zmiana może być spowodowana aktualizacją modelu konfiguracji lub zmianą konfiguracji nadrzędnej.;Questa modifica può essere causata da un aggiornamento del modello di configurazione o da una modifica nella configurazione principale.;Denne endringen kan skyldes en oppdatering av konfigurasjonsmodellen eller en endring i den overordnede konfigurasjonen.;Este cambio puede deberse a una actualización del modelo de configuración o a un cambio en la configuración principal.
 Create contact;Maak contact aan;Créer un contact;Kontakt erstellen;Skapa kontakt;Utwórz kontakt;Crea contatto;Opprett kontakt;Crear contacto
 Conflicting Linked Configurations;Conflicterende Gelinkte Configuraties;Configurations Liées Conflitantes;Konfliktierende Verknüpfte Konfigurationen;Konflikterande Länkade Konfigurationer;Konfliktujące Powiązane Konfiguracje;Configurazioni Collegate Conflittuali;Konflikterende Koblede Konfigurasjoner;Configuraciones Vinculadas Conflictivas
-Create CRM account;Maak CRM-account aan;Créer un compte CRM;CRM-Konto erstellen;Skapa CRM-konto;Utwórz konto CRM;Crea account CRM;Opprett CRM-konto;Crear cuenta CRM
-Select contact;Selecteer contact;Sélectionner le contact;Kontakt auswählen;Välj kontakt;Wybierz kontakt;Seleziona contatto;Velg kontakt;Seleccionar contacto
-Edit contact;Bewerk contact;Modifier le contact;Kontakt bearbeiten;Redigera kontakt;Edytuj kontakt;Modifica contatto;Rediger kontakt;Editar contacto
