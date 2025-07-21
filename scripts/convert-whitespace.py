@@ -4,6 +4,7 @@ import re
 
 # helper script to transform a csv into a version with correct whitespace formatting according to the 'test-whitespace.py'
 # creates a new csv named {old_name}_new.csv.
+# only intended to be ran manually, with manual copy pasting of the new file into the old one.
 
 oldfile = sys.argv[1]
 newfile = oldfile[:-4] + "_new.csv"
