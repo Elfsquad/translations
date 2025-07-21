@@ -36,7 +36,7 @@ Additional options*;Toegevoegde opties*;Options additionnelles*;Zusatzoptionen*;
 Share;Delen;Partager;Teilen;Aktie;Udostępnij;Condividi;Dele;Compartir
 Your personal configuration code;Jouw persoonlijke configuratie code;Votre code de configuration personnel;Ihr persönlicher Konfigurationscode;Din personliga konfigurationskod;Twój osobisty kod konfiguracji;Il tuo codice di configurazione personale;Din personlige konfigurasjonskode;Su código de configuración personal
 Your:;Jouw:;Votre:;Ihr:;Din:;Twój:;Tuo:;Din:;Tu:
-Back to Configuration;Terug naar configuratie;Retour Ã  la configuration;Zuruck zur Konfiguration;Tillbaka till konfigurationen;Wróć do Konfiguracji;Torna alla configurazione;Tilbake til konfigurasjon;Volver a Configuración
+Back to Configuration;Terug naar configuratie;Retour Ã la configuration;Zuruck zur Konfiguration;Tillbaka till konfigurationen;Wróć do Konfiguracji;Torna alla configurazione;Tilbake til konfigurasjon;Volver a Configuración
 Accept changes;Wijzigingen accepteren;Accepter les modifications;Änderungen übernehmen;Acceptera ändringar;Zaakceptuj zmiany;Accetta modifiche;Godta endringer;Aceptar cambios
 d;d;j;Tg.;d;d;g;d;d
 Days;Dagen;Journées;Tage;Dagar;Dni;Giorni;Dager;Días
@@ -53,7 +53,7 @@ Unit price*;Prijs per stuk*;prix unitaire;Stückpreis*;Pris per enhet*;Cena jedn
 Overview;Overzicht;aperçu;Übersicht;Översikt;Podgląd;Panoramica;Oversikt;Resumen
 *Prices excl. VAT;*Prijzen excl. btw;* Les prix n'incluent pas la TVA;* Preise excl. MwSt;*Priserna inkluderar inte moms;*Cena nie zawiera VAT;* I prezzi non includono l'IVA;*Prisene inkluderer ikke moms;*Los precios no incluyen el IVA
 *Prices incl. VAT;*Prijzen incl. btw;* Les prix incluent la TVA;* Preise inkl. MwSt;*Priserna inkluderar moms;*Cena zawiera VAT;* I prezzi includono l'IVA;*Prisene inkluderer merverdiavgift;*Los precios incluyen el IVA
-day;dag;journée;Tag;dag;dzień;giorno; dag;día
+day;dag;journée;Tag;dag;dzień;giorno;dag;día
 mo.;mnd.;ms;Mo.;mo;mies.;mo;mnd;mo
 wk.;wk.;smn;Wo.;vecka;tydz.;set;uke;wk
 yr.;jr.;an;J.;år;r.;anno;År;y
@@ -128,7 +128,7 @@ Leaving this page may cause you to lose your configuration. Are you sure you wan
 Invalid email;Ongeldig emailadres;Adresse électronique erronée;Ungültige E-Mail Adresse;Felaktigt e-postmeddelande;Nieprawidłowy adres email;Email non valida;Ugyldig e-post;Correo electrónico no válido
 This field is required;Dit invoerveld is verplicht;Ce champ de saisie est obligatoire;Dieses Feld ist erforderlich;Det här fältet är obligatoriskt;To pole jest wymagane;Questo campo è obbligatorio;Dette feltet er obligatorisk;Este campo es obligatorio
 Copy configuration;Configuratie kopiëren;Copier la configuration;Konfiguration kopieren;Kopiera konfigurationen;Kopiuj konfigurację;Copia configurazione;Kopier konfigurasjon;Copiar configuracion
-Would you like to copy this configuration?;Wil je de configuratie kopiëren?;Voulez-vous copier cette configuration ?;Wollen Sie diese Konfiguration kopieren?;Vill du kopiera den här konfigurationen?;Czy chcesz skopiować konfigurację?;Vuoi copiare questa configurazione?; Vil du kopiere denne konfigurasjonen?;¿Desea copiar esta configuración?
+Would you like to copy this configuration?;Wil je de configuratie kopiëren?;Voulez-vous copier cette configuration ?;Wollen Sie diese Konfiguration kopieren?;Vill du kopiera den här konfigurationen?;Czy chcesz skopiować konfigurację?;Vuoi copiare questa configurazione?;Vil du kopiere denne konfigurasjonen?;¿Desea copiar esta configuración?
 Copy;Kopieer;Copie;kopieren;Kopiera;Kopiuj;Copia;Kopi;Copiar
 Delete configuration;Verwijder configuratie;Supprimer la configuration;Konfiguration löschen;Radera konfiguration;Usuń konfigurację;Elimina configurazione;Slett konfigurasjon;Eliminar configuración
 Are you sure you want to delete this configuration?;Weet je zeker dat je deze configuratie wilt verwijderen?;Êtes-vous sûr de vouloir supprimer cette configuration ?;Sind Sie sicher, dass Sie diese Konfiguration löschen möchten?;Är du säker på att du vill radera den här konfigurationen?;Czy na pewno chcesz usunąć tę konfigurację?;Sei sicuro di voler eliminare questa configurazione?;Er du sikker på at du vil slette denne konfigurasjonen?;¿Está seguro de que desea eliminar esta configuración?
@@ -200,7 +200,7 @@ Seller;Verkoper;Vendeur;Verkaüfer;Säljare;Sprzedawca;Venditore;Selger;Vendedor
 Postal code;Postcode;Code postal;Postleitzahl;Postnummer;Kod pocztowy;Codice postale;Postnummer;Código Postal
 Default contact;Standaardcontact;Contact par défaut;Standardkontakt;Standardkontakt;Kontakt domyślny;Contatto predefinito;Standard kontakt;Contacto predeterminado
 E-mail;E-mail;E-mail;E-Mail;E-post;E-mail;E-mail;E-post;Correo electrónico
-Add Message Bar; Berichtbalk toevoegen; Ajouter une barre de message; Nachrichtenleiste hinzufügen; Lägg till meddelanderad; Dodaj pasek wiadomości; Aggiungi barra messaggi; Legg til meldingslinje; Agregar barra de mensaje
+Add Message Bar;Berichtbalk toevoegen;Ajouter une barre de message;Nachrichtenleiste hinzufügen;Lägg till meddelanderad;Dodaj pasek wiadomości;Aggiungi barra messaggi;Legg til meldingslinje;Agregar barra de mensaje
 Field;Veld;Champ;Feld;Fält;Pole;Campo;Felt;Campo
 Contact info;Contactgegevens;Coordonnées;Kontaktdaten;Kontaktinformation;Informacje kontaktowe;Informazioni di contatto;Kontaktinformasjon;Información de contacto
 General info;Algemene informatie;Informations générales;Allgemeine Informationen;Allmän information;Informacje ogólne;Informazioni generali;Generell info;Información general
@@ -243,7 +243,7 @@ Security;Beveiliging;Sécurité;Sicherheit;Säkerhet;Bezpieczeństwo;Sicurezza;S
 Click to edit the CRM account.;Klik om de CRM-account te bewerken.;Cliquez pour modifier le compte CRM.;Klicken Sie, um das CRM-Konto zu bearbeiten.;Klicka för att redigera CRM-kontot.;Kliknij, aby edytować konto CRM.;Clicca per modificare l'account CRM.;Klikk for å redigere CRM-kontoen.;Haz clic para editar la cuenta CRM.
 Use different shipping address;Gebruik een ander verzendadres;Utiliser une adresse de livraison différente;Andere Lieferadresse verwenden;Använd en annan leveransadress;Użyj innego adresu wysyłki;Usa un indirizzo di spedizione diverso;Bruk en annen leveringsadresse;Usar una dirección de envío diferente
 Copy Configuration;Kopieer Configuratie;Copier Configuration;Konfiguration Kopieren;Kopiera Konfiguration;Kopiuj Konfigurację;Copia Configurazione;Kopier Konfigurasjon;Copiar Configuración
-CRM account  with a similar company name already exists;CRM-account met een vergelijkbare bedrijfsnaam bestaat al;Un compte CRM avec un nom d'entreprise similaire existe déjà;Ein CRM-Konto mit einem ähnlichen Firmennamen existiert bereits;Ett CRM-konto med ett liknande företagsnamn finns redan;Konto CRM o podobnej nazwie firmy już istnieje;Esiste già un account CRM con un nome aziendale simile;CRM-konto med et lignende firmanavn eksisterer allerede;Ya existe una cuenta de CRM con un nombre de empresa similar
+CRM account with a similar company name already exists;CRM-account met een vergelijkbare bedrijfsnaam bestaat al;Un compte CRM avec un nom d'entreprise similaire existe déjà;Ein CRM-Konto mit einem ähnlichen Firmennamen existiert bereits;Ett CRM-konto med ett liknande företagsnamn finns redan;Konto CRM o podobnej nazwie firmy już istnieje;Esiste già un account CRM con un nome aziendale simile;CRM-konto med et lignende firmanavn eksisterer allerede;Ya existe una cuenta de CRM con un nombre de empresa similar
 New password;Nieuw wachtwoord;Nouveau mot de passe;Neues Passwort;Nytt lösenord;Nowe hasło;Nuova password;Nytt passord;Nueva contraseña
 Last name Prefix;Achternaam Voorvoegsel;Préfixe de nom de famille;Nachname Präfix;Efternamn Prefix;Prefiks nazwiska;Prefisso del cognome;Etternavn Prefiks;Prefijo de apellido
 Select features for:;Selecteer functies voor:;Sélectionnez des fonctionnalités pour :;Funktionen auswählen für:;Välj funktioner för:;Wybierz funkcje dla:;Seleziona funzionalità per:;Velg funksjoner for:;Selecciona funciones para:
