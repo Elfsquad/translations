@@ -1,0 +1,25 @@
+name: 'Check correct whitespace formatting'
+
+on:
+  pull_request:
+
+jobs:
+  check:
+    name: 'Check whitespace formatting'
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        token: '${{ secrets.GITHUB_TOKEN }}'
+        fetch-depth: 1
+
+    - name: Check
+      run: |
+        python3 ./scripts/test-whitespace.py ems_translations.csv
+        python3 ./scripts/test-whitespace.py showroom_translations.csv
