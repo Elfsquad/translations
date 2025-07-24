@@ -13,6 +13,5 @@ for line_no, line in enumerate(lines, start=1):
     keys.add(key)
 
 if len(keys) == len(lines):
-    exit(0)
-exit(1)
-
+    sys.exit(0)
+sys.exit(1)
