@@ -1,11 +1,11 @@
-name: 'Check all translation keys are unique'
+name: 'Check correct whitespace formatting'
 
 on:
   pull_request:
 
 jobs:
   check:
-    name: 'Check duplicate keys'
+    name: 'Check whitespace formatting'
     runs-on: ubuntu-latest
 
     defaults:
@@ -21,6 +21,5 @@ jobs:
 
     - name: Check
       run: |
-        python3 ./scripts/test-duplicate-key.py ems_translations.csv
-        python3 ./scripts/test-duplicate-key.py showroom_translations.csv
-
+        python3 ./scripts/test-whitespace.py ems_translations.csv
+        python3 ./scripts/test-whitespace.py showroom_translations.csv
